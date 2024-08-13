@@ -1,5 +1,0 @@
-name1=12
-
-name2='13'
-
-print ((srt)name1+name2)
